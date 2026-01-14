@@ -2,5 +2,5 @@
 
 int main(){
     std::cout << "Hello";
-    std::cout << 4 + 5;
+    std::cout << 4 + 5; // это сложение
 }
